@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3211
+
+operator-reverse provides operator / ex commands to reverse text / lines.
+
+Requirements:
+- |operator-user| (vimscript#2692)
+
+
+repository
+  http://github.com/tyru/operator-reverse.vim
